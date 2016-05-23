@@ -6,9 +6,13 @@
         mv ~/.vim ~/.vim.orig
         mv ~/.vimrc ~/.vimrc.orig
 
+### 安装依赖程序包
+        
+        ack/ack-grep 、ctags  
+
 ### 配置文件
 
-        git clone git://github.com/humiaozuzu/dot-vimrc.git ~/.vim
+        git clone git://github.com/tgyday/dot-vimrc.git ~/.vim
         ln -sf ~/.vim/vimrc ~/.vimrc
 
 ### 使用 `Vundle` 管理插件
