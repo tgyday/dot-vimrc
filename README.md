@@ -8,10 +8,10 @@
 
 ### 安装依赖程序包
         
-	yaourt -S ack ctags                  # ArchLinux
-	apt-get install ack-grep ctags       # Ubuntu
-	yum install ack ctags 		     # CentOS
-	brew install ack ctags               # OS X
+        yaourt -S ack ctags                  # ArchLinux
+        apt-get install ack-grep ctags       # Ubuntu
+        yum install ack ctags 		     # CentOS
+        brew install ack ctags               # OS X
 
 ### 配置文件
 
