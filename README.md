@@ -10,7 +10,7 @@
         
         yaourt -S ack ctags                  # ArchLinux
         apt-get install ack-grep ctags       # Ubuntu
-        yum install ack ctags 		     # CentOS
+        yum install ack ctags                # CentOS
         brew install ack ctags               # OS X
 
 ### 配置文件
